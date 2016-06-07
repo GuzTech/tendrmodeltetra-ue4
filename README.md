@@ -16,7 +16,7 @@ Additionally, we have made a few necessary adjustments to TetGen and encourage p
 
 ## Support
 
-This plugin has been tested with Unreal Engine 4.6 and Visual Studio 2013.
+This plugin has been tested with Unreal Engine versions 4.6 through 4.10 and Visual Studio 2013.
 
 For further support, you can always contact us at [http://tendrdynamics.com](http://tendrdynamics.com).
 
